@@ -1,0 +1,59 @@
+.food-title{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight:bolder;
+    text-align:center;
+}
+
+#kimchi-title{
+    color: red;
+}
+#mac-title{
+    color:yellow;
+}
+#orange-chicken{
+    color:orange;
+}
+
+
+
+
+
+img{
+    text-align: center;
+}
+
+h3{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ingredients{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1rem;
+}
+
+
+.directions{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 1.2rem;
+}
+
+#food-photo{
+    text-align: center;
+}
+
+
+#description{
+    font-style: oblique;
+}
+
+#back-to-home{
+    text-decoration:none;
+    font-size:2rem;
+    
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight:bolder;
+    text-align:center;
+    display:block;
+
+
+}

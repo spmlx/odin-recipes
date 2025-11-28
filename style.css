@@ -1,0 +1,44 @@
+* {
+    font-family: Arial, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+#title {
+    font-size: 6rem;
+    color: white;
+    background-color: hsl(348.3, 74.5%,89.2%);
+    text-align: center;
+
+}
+
+ul{
+    
+    list-style-type: none;
+    text-align: center;
+}
+
+a{
+    text-decoration:none;
+    font-weight:800;
+}
+
+
+
+
+#kimchi{
+    color:red;
+}
+
+#mac{
+    color:yellow;
+    font-size: 2rem;
+}
+
+#orange-chick{
+    color:orange;
+}
+
+
+.share-style{
+    font-size:3rem;
+}
